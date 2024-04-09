@@ -1,0 +1,14 @@
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\NextRound.exe
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\NextRound.deps.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\NextRound.runtimeconfig.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\NextRound.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\NextRound.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\NextRound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\NextRound.AssemblyInfoInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\NextRound.AssemblyInfo.cs
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\NextRound.csproj.CoreCompileInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\NextRound.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\refint\NextRound.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\NextRound.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\NextRound.genruntimeconfig.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\ref\NextRound.dll

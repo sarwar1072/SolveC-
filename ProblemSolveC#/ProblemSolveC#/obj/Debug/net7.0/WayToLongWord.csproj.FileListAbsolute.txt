@@ -1,0 +1,14 @@
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\bin\Debug\net7.0\WayToLongWord.exe
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\bin\Debug\net7.0\WayToLongWord.deps.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\bin\Debug\net7.0\WayToLongWord.runtimeconfig.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\bin\Debug\net7.0\WayToLongWord.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\bin\Debug\net7.0\WayToLongWord.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\obj\Debug\net7.0\WayToLongWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\obj\Debug\net7.0\WayToLongWord.AssemblyInfoInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\obj\Debug\net7.0\WayToLongWord.AssemblyInfo.cs
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\obj\Debug\net7.0\WayToLongWord.csproj.CoreCompileInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\obj\Debug\net7.0\WayToLongWord.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\obj\Debug\net7.0\refint\WayToLongWord.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\obj\Debug\net7.0\WayToLongWord.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\obj\Debug\net7.0\WayToLongWord.genruntimeconfig.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\ProblemSolveC#\obj\Debug\net7.0\ref\WayToLongWord.dll

@@ -1,0 +1,14 @@
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\bin\Debug\net6.0\AntonDanik.exe
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\bin\Debug\net6.0\AntonDanik.deps.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\bin\Debug\net6.0\AntonDanik.runtimeconfig.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\bin\Debug\net6.0\AntonDanik.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\bin\Debug\net6.0\AntonDanik.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\obj\Debug\net6.0\AntonDanik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\obj\Debug\net6.0\AntonDanik.AssemblyInfoInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\obj\Debug\net6.0\AntonDanik.AssemblyInfo.cs
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\obj\Debug\net6.0\AntonDanik.csproj.CoreCompileInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\obj\Debug\net6.0\AntonDanik.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\obj\Debug\net6.0\refint\AntonDanik.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\obj\Debug\net6.0\AntonDanik.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\obj\Debug\net6.0\AntonDanik.genruntimeconfig.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\AntonDanik\obj\Debug\net6.0\ref\AntonDanik.dll

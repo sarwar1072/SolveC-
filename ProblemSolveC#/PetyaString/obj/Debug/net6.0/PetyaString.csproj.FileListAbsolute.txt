@@ -1,0 +1,14 @@
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\bin\Debug\net6.0\PetyaString.exe
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\bin\Debug\net6.0\PetyaString.deps.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\bin\Debug\net6.0\PetyaString.runtimeconfig.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\bin\Debug\net6.0\PetyaString.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\bin\Debug\net6.0\PetyaString.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\obj\Debug\net6.0\PetyaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\obj\Debug\net6.0\PetyaString.AssemblyInfoInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\obj\Debug\net6.0\PetyaString.AssemblyInfo.cs
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\obj\Debug\net6.0\PetyaString.csproj.CoreCompileInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\obj\Debug\net6.0\PetyaString.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\obj\Debug\net6.0\refint\PetyaString.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\obj\Debug\net6.0\PetyaString.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\obj\Debug\net6.0\PetyaString.genruntimeconfig.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\PetyaString\obj\Debug\net6.0\ref\PetyaString.dll

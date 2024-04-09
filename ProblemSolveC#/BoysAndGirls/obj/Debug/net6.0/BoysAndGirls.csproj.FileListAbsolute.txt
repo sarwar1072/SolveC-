@@ -1,0 +1,14 @@
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\bin\Debug\net6.0\BoysAndGirls.exe
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\bin\Debug\net6.0\BoysAndGirls.deps.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\bin\Debug\net6.0\BoysAndGirls.runtimeconfig.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\bin\Debug\net6.0\BoysAndGirls.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\bin\Debug\net6.0\BoysAndGirls.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\obj\Debug\net6.0\BoysAndGirls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\obj\Debug\net6.0\BoysAndGirls.AssemblyInfoInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\obj\Debug\net6.0\BoysAndGirls.AssemblyInfo.cs
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\obj\Debug\net6.0\BoysAndGirls.csproj.CoreCompileInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\obj\Debug\net6.0\BoysAndGirls.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\obj\Debug\net6.0\refint\BoysAndGirls.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\obj\Debug\net6.0\BoysAndGirls.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\obj\Debug\net6.0\BoysAndGirls.genruntimeconfig.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\BoysAndGirls\obj\Debug\net6.0\ref\BoysAndGirls.dll

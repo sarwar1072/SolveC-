@@ -1,0 +1,14 @@
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\WordCapitalization.exe
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\WordCapitalization.deps.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\WordCapitalization.runtimeconfig.json
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\WordCapitalization.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\bin\Debug\net6.0\WordCapitalization.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\WordCapitalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\WordCapitalization.AssemblyInfoInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\WordCapitalization.AssemblyInfo.cs
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\WordCapitalization.csproj.CoreCompileInputs.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\WordCapitalization.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\refint\WordCapitalization.dll
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\WordCapitalization.pdb
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\WordCapitalization.genruntimeconfig.cache
+C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\NextRound\obj\Debug\net6.0\ref\WordCapitalization.dll
