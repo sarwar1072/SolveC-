@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sarwar Mahmud Milon\\source\\repos\\ProblemSolveC#\\ProblemSolveC#\\WayToLongWord.csproj": {}
+    "C:\\Users\\sarwa\\source\\repos\\SolveC-\\ProblemSolveC#\\ProblemSolveC#\\WayToLongWord.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sarwar Mahmud Milon\\source\\repos\\ProblemSolveC#\\ProblemSolveC#\\WayToLongWord.csproj": {
+    "C:\\Users\\sarwa\\source\\repos\\SolveC-\\ProblemSolveC#\\ProblemSolveC#\\WayToLongWord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sarwar Mahmud Milon\\source\\repos\\ProblemSolveC#\\ProblemSolveC#\\WayToLongWord.csproj",
+        "projectUniqueName": "C:\\Users\\sarwa\\source\\repos\\SolveC-\\ProblemSolveC#\\ProblemSolveC#\\WayToLongWord.csproj",
         "projectName": "WayToLongWord",
-        "projectPath": "C:\\Users\\Sarwar Mahmud Milon\\source\\repos\\ProblemSolveC#\\ProblemSolveC#\\WayToLongWord.csproj",
-        "packagesPath": "C:\\Users\\Sarwar Mahmud Milon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sarwar Mahmud Milon\\source\\repos\\ProblemSolveC#\\ProblemSolveC#\\obj\\",
+        "projectPath": "C:\\Users\\sarwa\\source\\repos\\SolveC-\\ProblemSolveC#\\ProblemSolveC#\\WayToLongWord.csproj",
+        "packagesPath": "C:\\Users\\sarwa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sarwa\\source\\repos\\SolveC-\\ProblemSolveC#\\ProblemSolveC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sarwar Mahmud Milon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sarwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

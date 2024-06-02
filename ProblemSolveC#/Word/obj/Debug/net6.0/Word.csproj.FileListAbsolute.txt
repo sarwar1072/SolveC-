@@ -12,3 +12,18 @@ C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\Word\obj\Debug\net6.0\r
 C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\Word\obj\Debug\net6.0\Word.pdb
 C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\Word\obj\Debug\net6.0\Word.genruntimeconfig.cache
 C:\Users\Sarwar Mahmud Milon\source\repos\ProblemSolveC#\Word\obj\Debug\net6.0\ref\Word.dll
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\bin\Debug\net6.0\Word.exe
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\bin\Debug\net6.0\Word.deps.json
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\bin\Debug\net6.0\Word.runtimeconfig.json
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\bin\Debug\net6.0\Word.dll
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\bin\Debug\net6.0\Word.pdb
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\Word.AssemblyInfoInputs.cache
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\Word.AssemblyInfo.cs
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\Word.csproj.CoreCompileInputs.cache
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\Word.sourcelink.json
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\Word.dll
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\refint\Word.dll
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\Word.pdb
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\Word.genruntimeconfig.cache
+C:\Users\sarwa\source\repos\SolveC-\ProblemSolveC#\Word\obj\Debug\net6.0\ref\Word.dll
